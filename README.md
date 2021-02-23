@@ -11,3 +11,6 @@ I have used both VScode and git previously, but I had an 8-month break from both
 
 1. Downloaded and installed VScode.
 2. Created workspace and customized setting for that space.
+3. Installed extensions from VScode marketplace.
+4. Downloaded and installed gitSCM.
+5. Set up git and cloned this repository to VScode workspace.
