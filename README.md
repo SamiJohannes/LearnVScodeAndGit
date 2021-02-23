@@ -6,3 +6,8 @@ I have used both VScode and git previously, but I had an 8-month break from both
 
 - Install VScode and familiarize basic usage of it.
 - Install git and initialize a repository.
+
+## Progress
+
+1. Downloaded and installed VScode.
+2. Created workspace and customized setting for that space.
