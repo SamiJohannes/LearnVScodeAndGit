@@ -15,3 +15,5 @@ I have used both VScode and git previously, but I had an 8-month break from both
 4. Downloaded and installed gitSCM.
 5. Set up git and cloned this repository to VScode workspace.
 6. In VScode, made changes, commit and push to master branch.
+7. In VScode,  pulled master from remote origin.
+8. In VScode, created a new branch and made changes to readme.
