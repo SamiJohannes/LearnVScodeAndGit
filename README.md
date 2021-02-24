@@ -14,3 +14,4 @@ I have used both VScode and git previously, but I had an 8-month break from both
 3. Installed extensions from VScode marketplace.
 4. Downloaded and installed gitSCM.
 5. Set up git and cloned this repository to VScode workspace.
+6. In VScode, made changes, commit and push to master branch.
