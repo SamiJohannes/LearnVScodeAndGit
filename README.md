@@ -17,3 +17,7 @@ I have used both VScode and git previously, but I had an 8-month break from both
 6. In VScode, made changes, commit and push to master branch.
 7. In VScode,  pulled master from remote origin.
 8. In VScode, created a new branch and made changes to readme.
+
+## Conclusion
+
+Installed both Git and VScode. Set both softwares up and practised using them. Now I have basic knowledge of using them and I'm ready to start using them in my personal projects.
